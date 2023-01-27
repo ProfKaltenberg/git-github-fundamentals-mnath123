@@ -9,7 +9,7 @@
 
 **I am still confused with:** the fundamentals and specifics of GitHub
 
-![worried](https://giphy.com/gifs/spongebob-spongebob-squarepants-season-6-xUPJPzcdlbvaFUrF7y.gif)
+![worried](https://giphy.com/gifs/spongebob-spongebob-squarepants-season-6-xUPJPzcdlbvaFUrF7y)
 
 
 

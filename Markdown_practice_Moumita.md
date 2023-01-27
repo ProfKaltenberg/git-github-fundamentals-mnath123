@@ -9,7 +9,7 @@
 
 **I am still confused with:** the fundamentals and specifics of GitHub
 
-![alt text](giphy.com/gifs/images-bee-VRhsYYBw8AE36.jpg) 
+![wignerfunction](../gifs/wigner_rotation_animate.gif "wigner") 
 
 
 ```python

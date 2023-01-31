@@ -3,7 +3,7 @@
 ### *Moumita Nath*
 
 **From today's class I learned:**
-   1. Fundamentals of GitHUb
+   1. Fundamentals of GitHub
    2. Installing and opening Jupyter notebook
    3. Documenting and editing in Python scripts
 

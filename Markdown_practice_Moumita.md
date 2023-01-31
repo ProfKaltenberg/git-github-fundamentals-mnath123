@@ -7,7 +7,7 @@
    2. Installing and opening Jupyter notebook
    3. Documenting and editing in Python scripts
 
-**I am still confused with:** the fundamentals and specifics of GitHub
+**I am still confused with:** the fundamentals and specifics of GitHub, specifically branches and issues
 
 ![nervous_gif](https://media.giphy.com/media/13Cmju3maIjStW/giphy.gif) 
 
